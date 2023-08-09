@@ -5,7 +5,7 @@ by Giovaldi Ramadhan
 ![](https://github.com/giovaldir/Bank-Data-Analysis-using-SQL/blob/c7d74727f00a257078194902749a27bf99009c9e/bank.png)
 
 ## Project Description
-Data Bank operates as a digital bank with a unique feature: aside from banking services, it offers the world's most secure distributed data storage platform. Cloud data storage limits for customers are directly tied to their account balances. However, there are intriguing complexities related to this approach. The Data Bank team seeks assistance to enhance customer acquisition and track data storage requirements. This case study focuses on calculating metrics, facilitating growth, and enabling intelligent data analysis for accurate future development forecasts and planning.
+Data Bank operates as a digital bank with a unique feature: aside from banking services, it offers the world's most secure distributed data storage platform. Cloud data storage limits for customers are directly tied to their account balances. However, there are intriguing complexities related to this approach. The Data Bank team seeks assistance to enhance customer acquisition and track data storage requirements. This case study focuses on calculating metrics, facilitating growth, and enabling intelligent data analysis for accurate future development forecasts and planning. The project primarily utilizes PostgreSQL for extracting and analyzing the data.
 
 ## Data Understanding
 ### customer_nodes
